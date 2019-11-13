@@ -47,7 +47,7 @@ header img {
 .features > h1 {
     text-align: center;
     padding: 64px 0; 
-    font-weight : normal 
+    font-weight : normal; 
 }
 
 .features .container{
@@ -112,7 +112,7 @@ header img {
 
  @media (min-width: 900px) {
     header .container {
-      display: flex; //ここについて復習をする
+      display: flex; 
       width: 800px;
       margin: 0 auto;
     }
