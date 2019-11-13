@@ -1,4 +1,4 @@
-body{
+body {
  margin: 0 ;   
  font-size : 16px;
  font-family : Zverdana, sans-serif; 
@@ -9,9 +9,7 @@ header {
     color: #fff;
     text-align: center; 
     padding-top: 64px;
-
 }
-
 
 header h1,
 header p {
@@ -50,15 +48,15 @@ header img {
     font-weight : normal; 
 }
 
-.features .container{
+.features .container {
     margin: 0 32px;
 }
 
-.features p{
+.features p {
     line-height: 1.8;
 }
 
-.features section{
+.features section {
     padding-bottom:64px;
 }
 
@@ -72,19 +70,19 @@ header img {
     font-weight: normal;
   }
 
-.members ul{
+.members ul {
    list-style: none;
    text-align: center;
    margin: 0;
    padding: 0; 
 }
 
-.members img{
+.members img {
     width: 160px;
     border-radius: 50%;
 }
 
-.members li{
+.members li {
     padding-bottom: 64px;
 }
 
